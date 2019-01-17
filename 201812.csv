@@ -1,0 +1,732 @@
+JD,YEAR,MONTH,DAY,OBS,name,SEE,g,s,W
+2458454," 2018",12,1,ONJ,"John O'Neill",F,0,0,0
+2458454," 2018",12,1,HOWR,"Rodney Howe",G,0,0,0
+2458454," 2018",12,1,BRAD,"Dave Branchett",F,0,0,0
+2458455," 2018",12,2,KAND,"Kandilli Observatory",F,0,0,0
+2458455," 2018",12,2,WILW,"William M. Wilson",F,0,0,0
+2458454," 2018",12,1,CNT,"Dean Chantiles",E,0,0,0
+2458455," 2018",12,2,ASA,"Salvador Aguirre",E,0,0,0
+2458455," 2018",12,2,HOWR,"Rodney Howe",E,0,0,0
+2458455," 2018",12,2,JDAC,"David Jackson",G,0,0,0
+2458455," 2018",12,2,CNT,"Dean Chantiles",F,0,0,0
+2458455," 2018",12,2,BRAD,"Dave Branchett",F,0,0,0
+2458456," 2018",12,3,KAND,"Kandilli Observatory",F,0,0,0
+2458456," 2018",12,3,HOWR,"Rodney Howe",E,0,0,0
+2458454," 2018",12,1,BERJ,"Jose Alberto Berdejo",P,0,0,0
+2458455," 2018",12,2,BERJ,"Jose Alberto Berdejo",P,0,0,0
+2458456," 2018",12,3,BERJ,"Jose Alberto Berdejo",F,0,0,0
+2458456," 2018",12,3,CNT,"Dean Chantiles",G,0,0,0
+2458456," 2018",12,3,BRAD,"Dave Branchett",F,0,0,0
+2458456," 2018",12,3,ASA,"Salvador Aguirre",G,0,0,0
+2458457," 2018",12,4,FERJ,"Javier Ruiz",F,0,0,0
+2458457," 2018",12,4,ASA,"Salvador Aguirre",G,0,0,0
+2458457," 2018",12,4,HOWR,"Rodney Howe",E,0,0,0
+2458457," 2018",12,4,CNT,"Dean Chantiles",G,0,0,0
+2458457," 2018",12,4,EHOA,"Howard Eskildsen",F,0,0,0
+2458456," 2018",12,3,ERB,"Bob Eramia",F,0,0,0
+2458457," 2018",12,4,ERB,"Bob Eramia",F,0,0,0
+2458458," 2018",12,5,FERJ,"Javier Ruiz",G,1,12,22
+2458458," 2018",12,5,WILW,"William M. Wilson",P,1,9,19
+2458454," 2018",12,1,BRAF,"Raffaello Braga",F,0,0,0
+2458455," 2018",12,2,BRAF,"Raffaello Braga",P,0,0,0
+2458458," 2018",12,5,BRAD,"Dave Branchett",F,1,5,15
+2458458," 2018",12,5,EHOA,"Howard Eskildsen",F,1,8,18
+2458459," 2018",12,6,EHOA,"Howard Eskildsen",F,1,9,19
+2458459," 2018",12,6,ASA,"Salvador Aguirre",G,1,8,18
+2458459," 2018",12,6,BRAD,"Dave Branchett",F,1,6,16
+2458458," 2018",12,5,ERB,"Bob Eramia",P,1,3,13
+2458459," 2018",12,6,ERB,"Bob Eramia",P,1,2,12
+2458460," 2018",12,7,KAND,"Kandilli Observatory",F,1,7,17
+2458460," 2018",12,7,ASA,"Salvador Aguirre",G,1,3,13
+2458460," 2018",12,7,HOWR,"Rodney Howe",E,0,0,0
+2458460," 2018",12,7,JDAC,"David Jackson",G,1,2,12
+2458460," 2018",12,7,CNT,"Dean Chantiles",G,1,5,15
+2458460," 2018",12,7,BRAD,"Dave Branchett",F,1,2,12
+2458461," 2018",12,8,KAND,"Kandilli Observatory",F,0,0,0
+2458461," 2018",12,8,FERJ,"Javier Ruiz",P,0,0,0
+2458460," 2018",12,7,EHOA,"Howard Eskildsen",F,1,8,18
+2458461," 2018",12,8,EHOA,"Howard Eskildsen",F,0,0,0
+2458461," 2018",12,8,ASA,"Salvador Aguirre",G,0,0,0
+2458461," 2018",12,8,HOWR,"Rodney Howe",E,0,0,0
+2458461," 2018",12,8,CNT,"Dean Chantiles",E,1,2,12
+2458461," 2018",12,8,BRAD,"Dave Branchett",F,0,0,0
+2458457," 2018",12,4,BRAD,"Dave Branchett",F,0,0,0
+2458462," 2018",12,9,KAND,"Kandilli Observatory",P,0,0,0
+2458462," 2018",12,9,ASA,"Salvador Aguirre",G,0,0,0
+2458462," 2018",12,9,BLAJ,"John Blackwell",P,0,0,0
+2458462," 2018",12,9,HOWR,"Rodney Howe",E,0,0,0
+2458462," 2018",12,9,BRAD,"Dave Branchett",F,0,0,0
+2458463," 2018",12,10,FERJ,"Javier Ruiz",F,0,0,0
+2458463," 2018",12,10,ASA,"Salvador Aguirre",G,0,0,0
+2458463," 2018",12,10,HOWR,"Rodney Howe",E,0,0,0
+2458463," 2018",12,10,OATS,"Susan Oatney",E,0,0,0
+2458457," 2018",12,4,BERJ,"Jose Alberto Berdejo",P,0,0,0
+2458459," 2018",12,6,BERJ,"Jose Alberto Berdejo",P,1,6,16
+2458460," 2018",12,7,BERJ,"Jose Alberto Berdejo",P,1,5,15
+2458461," 2018",12,8,BERJ,"Jose Alberto Berdejo",P,0,0,0
+2458462," 2018",12,9,BERJ,"Jose Alberto Berdejo",P,0,0,0
+2458463," 2018",12,10,BERJ,"Jose Alberto Berdejo",P,0,0,0
+2458464," 2018",12,11,BERJ,"Jose Alberto Berdejo",P,0,0,0
+2458464," 2018",12,11,FERJ,"Javier Ruiz",P,1,1,11
+2458464," 2018",12,11,WILW,"William M. Wilson",F,0,0,0
+2458464," 2018",12,11,HOWR,"Rodney Howe",E,0,0,0
+2458454," 2018",12,1,FLET,"Tom Fleming",E,0,0,0
+2458455," 2018",12,2,FLET,"Tom Fleming",G,0,0,0
+2458456," 2018",12,3,FLET,"Tom Fleming",G,0,0,0
+2458463," 2018",12,10,FLET,"Tom Fleming",G,0,0,0
+2458464," 2018",12,11,JDAC,"David Jackson",G,0,0,0
+2458464," 2018",12,11,EHOA,"Howard Eskildsen",P,1,2,12
+2458464," 2018",12,11,BRAD,"Dave Branchett",G,1,1,11
+2458465," 2018",12,12,EHOA,"Howard Eskildsen",G,0,0,0
+2458465," 2018",12,12,ASA,"Salvador Aguirre",G,0,0,0
+2458465," 2018",12,12,JDAC,"David Jackson",G,0,0,0
+2458466," 2018",12,13,KAND,"Kandilli Observatory",F,0,0,0
+2458466," 2018",12,13,ASA,"Salvador Aguirre",G,0,0,0
+2458464," 2018",12,11,CNT,"Dean Chantiles",G,0,0,0
+2458467," 2018",12,14,KAND,"Kandilli Observatory",F,0,0,0
+2458467," 2018",12,14,FERJ,"Javier Ruiz",G,0,0,0
+2458467," 2018",12,14,BRAF,"Raffaello Braga",P,1,2,12
+2458467," 2018",12,14,HOWR,"Rodney Howe",E,0,0,0
+2458465," 2018",12,12,BERJ,"Jose Alberto Berdejo",P,0,0,0
+2458467," 2018",12,14,BERJ,"Jose Alberto Berdejo",P,0,0,0
+2458468," 2018",12,15,BRAD,"David Branchett",G,0,0,0
+2458468," 2018",12,15,CNT,"Dean Chantiles",E,0,0,0
+2458469," 2018",12,16,WILW,"William M. Wilson",F,0,0,0
+2458469," 2018",12,16,HOWR,"Rodney Howe",E,0,0,0
+2458469," 2018",12,16,EHOA,"Howard Eskildsen",G,0,0,0
+2458469," 2018",12,16,BRAD,"David Branchett",F,0,0,0
+2458469," 2018",12,16,FERJ,"Javier Ruiz",F,0,0,0
+2458470," 2018",12,17,WILW,"William M. Wilson",F,0,0,0
+2458470," 2018",12,17,ASA,Salvador,G,0,0,0
+2458470," 2018",12,17,JDAC,"David J Jackson",G,0,0,0
+2458470," 2018",12,17,HOWR,"Rodney Howe",E,0,0,0
+2458464," 2018",12,11,FLET,"Tom Fleming",F,0,0,0
+2458466," 2018",12,13,FLET,"Tom Fleming",F,0,0,0
+2458468," 2018",12,15,FLET,"Tom Fleming",G,0,0,0
+2458469," 2018",12,16,FLET,"Tom Fleming",F,0,0,0
+2458471," 2018",12,18,WILW,"William M. Wilson",P,0,0,0
+2458470," 2018",12,17,EHOA,"Howard Eskildsen",G,0,0,0
+2458471," 2018",12,18,ASA,Salvador,G,0,0,0
+2458471," 2018",12,18,HOWR,"Rodney Howe",E,0,0,0
+2458471," 2018",12,18,EHOA,"Howard Eskildsen",G,0,0,0
+2458471," 2018",12,18,JDAC,"David J Jackson",G,0,0,0
+2458470," 2018",12,17,BRAD,"David Branchett",G,0,0,0
+2458471," 2018",12,18,BRAD,"David Branchett",G,0,0,0
+2458472," 2018",12,19,EHOA,"Howard Eskildsen",G,0,0,0
+2458472," 2018",12,19,WILW,"William M. Wilson",P,0,0,0
+2458472," 2018",12,19,ASA,Salvador,G,0,0,0
+2458472," 2018",12,19,FERJ,"Javier Ruiz",F,0,0,0
+2458472," 2018",12,19,HOWR,"Rodney Howe",E,0,0,0
+2458472," 2018",12,19,JDAC,"David J Jackson",F,0,0,0
+2458469," 2018",12,16,CNT,"Dean Chantiles",F,0,0,0
+2458471," 2018",12,18,CNT,"Dean Chantiles",G,0,0,0
+2458470," 2018",12,17,BERJ,"Jose Alberto Berdejo",P,0,0,0
+2458472," 2018",12,19,BERJ,"Jose Alberto Berdejo",F,0,0,0
+2458473," 2018",12,20,BERJ,"Jose Alberto Berdejo",F,0,0,0
+2458473," 2018",12,20,FERJ,"Javier Ruiz",F,0,0,0
+2458473," 2018",12,20,HOWR,"Rodney Howe",E,0,0,0
+2458473," 2018",12,20,ASA,Salvador,G,0,0,0
+2458473," 2018",12,20,CNT,"Dean Chantiles",G,0,0,0
+2458474," 2018",12,21,KAND,"Kandilli obs.",P,0,0,0
+2458474," 2018",12,21,EHOA,"Howard Eskildsen",G,0,0,0
+2458474," 2018",12,21,ASA,Salvador,G,0,0,0
+2458470," 2018",12,17,FLET,"Tom Fleming",F,0,0,0
+2458471," 2018",12,18,FLET,"Tom Fleming",F,0,0,0
+2458473," 2018",12,20,FLET,"Tom Fleming",G,0,0,0
+2458474," 2018",12,21,FLET,"Tom Fleming",G,0,0,0
+2458472," 2018",12,19,BRAD,"David Branchett",F,0,0,0
+2458474," 2018",12,21,BRAD,"David Branchett",G,0,0,0
+2458475," 2018",12,22,KAND,"Kandilli obs.",P,0,0,0
+2458475," 2018",12,22,BRAD,"David Branchett",G,0,0,0
+2458475," 2018",12,22,EHOA,"Howard Eskildsen",F,0,0,0
+2458475," 2018",12,22,WILW,"William M. Wilson",P,0,0,0
+2458475," 2018",12,22,ASA,Salvador,G,0,0,0
+2458475," 2018",12,22,HOWR,"Rodney Howe",E,0,0,0
+2458475," 2018",12,22,CNT,"Dean Chantiles",G,0,0,0
+2458476," 2018",12,23,FERJ,"Javier Ruiz",F,0,0,0
+2458476," 2018",12,23,BRAD,"David Branchett",G,0,0,0
+2458476," 2018",12,23,HOWR,"Rodney Howe",E,0,0,0
+2458476," 2018",12,23,ASA,Salvador,G,0,0,0
+2458476," 2018",12,23,EHOA,"Howard Eskildsen",G,0,0,0
+2458476," 2018",12,23,WILW,"William M. Wilson",P,0,0,0
+2458477," 2018",12,24,KAND,"Kandilli obs.",F,0,0,0
+2458474," 2018",12,21,BERJ,"Jose Alberto Berdejo",P,0,0,0
+2458475," 2018",12,22,BERJ,"Jose Alberto Berdejo",F,0,0,0
+2458476," 2018",12,23,BERJ,"Jose Alberto Berdejo",F,0,0,0
+2458477," 2018",12,24,BERJ,"Jose Alberto Berdejo",P,0,0,0
+2458477," 2018",12,24,FERJ,"Javier Ruiz",F,0,0,0
+2458477," 2018",12,24,BRAF,"Raffaello Braga",P,0,0,0
+2458477," 2018",12,24,BRAD,"David Branchett",G,0,0,0
+2458477," 2018",12,24,WILW,"William M. Wilson",F,0,0,0
+2458477," 2018",12,24,ASA,Salvador,G,0,0,0
+2458477," 2018",12,24,EHOA,"Howard Eskildsen",E,0,0,0
+2458478," 2018",12,25,FERJ,"Javier Ruiz",F,0,0,0
+2458478," 2018",12,25,EHOA,"Howard Eskildsen",G,0,0,0
+2458478," 2018",12,25,BRAD,"David Branchett",G,0,0,0
+2458478," 2018",12,25,WILW,"William M. Wilson",P,0,0,0
+2458478," 2018",12,25,HOWR,"Rodney Howe",E,0,0,0
+2458478," 2018",12,25,ASA,Salvador,G,0,0,0
+2458478," 2018",12,25,CVJ,"Jose Carvajal",G,0,0,0
+2458454," 2018",12,1,CKB,"Brian Cudnik",E,0,0,0
+2458455," 2018",12,2,CKB,"Brian Cudnik",F,0,0,0
+2458456," 2018",12,3,CKB,"Brian Cudnik",F,0,0,0
+2458457," 2018",12,4,CKB,"Brian Cudnik",G,0,0,0
+2458458," 2018",12,5,CKB,"Brian Cudnik",E,1,11,21
+2458463," 2018",12,10,CKB,"Brian Cudnik",G,0,0,0
+2458464," 2018",12,11,CKB,"Brian Cudnik",E,1,2,12
+2458466," 2018",12,13,CKB,"Brian Cudnik",E,0,0,0
+2458468," 2018",12,15,CKB,"Brian Cudnik",G,1,1,11
+2458470," 2018",12,17,CKB,"Brian Cudnik",G,0,0,0
+2458472," 2018",12,19,CKB,"Brian Cudnik",G,0,0,0
+2458473," 2018",12,20,CKB,"Brian Cudnik",G,0,0,0
+2458474," 2018",12,21,CKB,"Brian Cudnik",F,0,0,0
+2458475," 2018",12,22,CKB,"Brian Cudnik",G,0,0,0
+2458476," 2018",12,23,CKB,"Brian Cudnik",G,0,0,0
+2458477," 2018",12,24,CKB,"Brian Cudnik",F,0,0,0
+2458479," 2018",12,26,KAND,"Kandilli obs.",F,0,0,0
+2458479," 2018",12,26,BRAD,"David Branchett",G,0,0,0
+2458479," 2018",12,26,ASA,Salvador,G,0,0,0
+2458479," 2018",12,26,JDAC,"David J Jackson",G,0,0,0
+2458479," 2018",12,26,EHOA,"Howard Eskildsen",G,0,0,0
+2458479," 2018",12,26,FERJ,"Javier Ruiz",F,0,0,0
+2458480," 2018",12,27,FERJ,"Javier Ruiz",G,0,0,0
+2458480," 2018",12,27,BLAJ,"John Blackwell",G,0,0,0
+2458480," 2018",12,27,BRAF,"Raffaello Braga",F,0,0,0
+2458480," 2018",12,27,EHOA,"Howard Eskildsen",G,0,0,0
+2458480," 2018",12,27,ASA,Salvador,G,0,0,0
+2458480," 2018",12,27,HOWR,"Rodney Howe",E,0,0,0
+2458478," 2018",12,25,CNT,"Dean Chantiles",F,0,0,0
+2458479," 2018",12,26,CNT,"Dean Chantiles",F,0,0,0
+2458480," 2018",12,27,CNT,"Dean Chantiles",P,0,0,0
+2458480," 2018",12,27,CVJ,"Jose Carvajal",E,0,0,0
+2458481," 2018",12,28,KAND,"Kandilli obs.",F,0,0,0
+2458481," 2018",12,28,CVJ,"Jose Carvajal",E,0,0,0
+2458481," 2018",12,28,WILW,"William M. Wilson",P,0,0,0
+2458481," 2018",12,28,ASA,Salvador,G,0,0,0
+2458481," 2018",12,28,CNT,"Dean Chantiles",P,0,0,0
+2458481," 2018",12,28,BRAD,"David Branchett",P,0,0,0
+2458482," 2018",12,29,FERJ,"Javier Ruiz",P,0,0,0
+2458482," 2018",12,29,WILW,"William M. Wilson",P,0,0,0
+2458482," 2018",12,29,HOWR,"Rodney Howe",E,0,0,0
+2458482," 2018",12,29,BRAD,"David Branchett",F,0,0,0
+2458482," 2018",12,29,CNT,"Dean Chantiles",F,0,0,0
+2458482," 2018",12,29,ASA,Salvador,G,0,0,0
+2458454," 2018",12,1,TESD,"David  Teske",G,0,0,0
+2458455," 2018",12,2,TESD,"David  Teske",G,0,0,0
+2458456," 2018",12,3,TESD,"David  Teske",G,0,0,0
+2458457," 2018",12,4,TESD,"David  Teske",G,0,0,0
+2458458," 2018",12,5,TESD,"David  Teske",G,1,9,19
+2458459," 2018",12,6,TESD,"David  Teske",F,1,2,12
+2458463," 2018",12,10,TESD,"David  Teske",G,1,1,11
+2458464," 2018",12,11,TESD,"David  Teske",E,1,2,12
+2458465," 2018",12,12,TESD,"David  Teske",P,0,0,0
+2458469," 2018",12,16,TESD,"David  Teske",F,0,0,0
+2458470," 2018",12,17,TESD,"David  Teske",G,0,0,0
+2458471," 2018",12,18,TESD,"David  Teske",E,0,0,0
+2458475," 2018",12,22,TESD,"David  Teske",E,0,0,0
+2458476," 2018",12,23,TESD,"David  Teske",G,0,0,0
+2458477," 2018",12,24,TESD,"David  Teske",G,0,0,0
+2458478," 2018",12,25,TESD,"David  Teske",F,0,0,0
+2458479," 2018",12,26,TESD,"David  Teske",G,0,0,0
+2458481," 2018",12,28,TESD,"David  Teske",G,0,0,0
+2458482," 2018",12,29,TESD,"David  Teske",G,0,0,0
+2458455," 2018",12,2,VIDD,"Dan Vidican",P,0,0,0
+2458456," 2018",12,3,VIDD,"Dan Vidican",P,0,0,0
+2458462," 2018",12,9,VIDD,"Dan Vidican",P,0,0,0
+2458465," 2018",12,12,VIDD,"Dan Vidican",F,0,0,0
+2458483," 2018",12,30,FERJ,"Javier Ruiz",F,0,0,0
+2458482," 2018",12,29,BRAF,"Raffaello Braga",F,0,0,0
+2458483," 2018",12,30,BRAF,"Raffaello Braga",P,0,0,0
+2458455," 2018",12,2,MUDG,"George Mudry",F,0,0,0
+2458457," 2018",12,4,MUDG,"George Mudry",F,0,0,0
+2458471," 2018",12,18,MUDG,"George Mudry",G,0,0,0
+2458482," 2018",12,29,MUDG,"George Mudry",F,0,0,0
+2458483," 2018",12,30,ASA,Salvador,G,0,0,0
+2458483," 2018",12,30,CVJ,"Jose Carvajal",G,0,0,0
+2458483," 2018",12,30,EHOA,"Howard Eskildsen",E,0,0,0
+2458483," 2018",12,30,HOWR,"Rodney Howe",G,0,0,0
+2458458," 2018",12,5,BATR,"Roberto Battaiola",G,1,9,19
+2458461," 2018",12,8,BATR,"Roberto Battaiola",F,0,0,0
+2458482," 2018",12,29,BATR,"Roberto Battaiola",F,0,0,0
+2458484," 2018",12,31,KAND,"Kandilli obs.",F,0,0,0
+2458454," 2018",12,1,KNJS,"Jim and Shirley Knight",G,0,0,0
+2458455," 2018",12,2,KNJS,"Jim and Shirley Knight",G,0,0,0
+2458456," 2018",12,3,KNJS,"Jim and Shirley Knight",G,0,0,0
+2458457," 2018",12,4,KNJS,"Jim and Shirley Knight",G,0,0,0
+2458458," 2018",12,5,KNJS,"Jim and Shirley Knight",F,1,6,16
+2458459," 2018",12,6,KNJS,"Jim and Shirley Knight",P,1,5,15
+2458460," 2018",12,7,KNJS,"Jim and Shirley Knight",G,1,10,20
+2458461," 2018",12,8,KNJS,"Jim and Shirley Knight",F,0,0,0
+2458462," 2018",12,9,KNJS,"Jim and Shirley Knight",E,0,0,0
+2458463," 2018",12,10,KNJS,"Jim and Shirley Knight",G,0,0,0
+2458464," 2018",12,11,KNJS,"Jim and Shirley Knight",G,1,1,11
+2458465," 2018",12,12,KNJS,"Jim and Shirley Knight",G,0,0,0
+2458466," 2018",12,13,KNJS,"Jim and Shirley Knight",F,0,0,0
+2458467," 2018",12,14,KNJS,"Jim and Shirley Knight",F,0,0,0
+2458468," 2018",12,15,KNJS,"Jim and Shirley Knight",G,0,0,0
+2458469," 2018",12,16,KNJS,"Jim and Shirley Knight",G,1,1,11
+2458470," 2018",12,17,KNJS,"Jim and Shirley Knight",G,0,0,0
+2458471," 2018",12,18,KNJS,"Jim and Shirley Knight",G,0,0,0
+2458472," 2018",12,19,KNJS,"Jim and Shirley Knight",G,0,0,0
+2458473," 2018",12,20,KNJS,"Jim and Shirley Knight",G,0,0,0
+2458474," 2018",12,21,KNJS,"Jim and Shirley Knight",G,0,0,0
+2458475," 2018",12,22,KNJS,"Jim and Shirley Knight",G,0,0,0
+2458476," 2018",12,23,KNJS,"Jim and Shirley Knight",G,0,0,0
+2458477," 2018",12,24,KNJS,"Jim and Shirley Knight",G,0,0,0
+2458478," 2018",12,25,KNJS,"Jim and Shirley Knight",G,0,0,0
+2458479," 2018",12,26,KNJS,"Jim and Shirley Knight",F,0,0,0
+2458480," 2018",12,27,KNJS,"Jim and Shirley Knight",G,0,0,0
+2458481," 2018",12,28,KNJS,"Jim and Shirley Knight",G,0,0,0
+2458482," 2018",12,29,KNJS,"Jim and Shirley Knight",G,0,0,0
+2458483," 2018",12,30,KNJS,"Jim and Shirley Knight",F,0,0,0
+2458484," 2018",12,31,KNJS,"Jim and Shirley Knight",G,0,0,0
+2458484," 2018",12,31,CVJ,"Jose Carvajal",E,0,0,0
+2458454," 2018",12,1,BMF,"Michael Boschat",F,0,0,0
+2458456," 2018",12,3,BMF,"Michael Boschat",F,0,0,0
+2458458," 2018",12,5,BMF,"Michael Boschat",G,1,5,15
+2458460," 2018",12,7,BMF,"Michael Boschat",G,1,4,14
+2458461," 2018",12,8,BMF,"Michael Boschat",G,1,4,14
+2458462," 2018",12,9,BMF,"Michael Boschat",G,0,0,0
+2458463," 2018",12,10,BMF,"Michael Boschat",G,0,0,0
+2458464," 2018",12,11,BMF,"Michael Boschat",G,1,2,12
+2458465," 2018",12,12,BMF,"Michael Boschat",F,0,0,0
+2458466," 2018",12,13,BMF,"Michael Boschat",G,0,0,0
+2458467," 2018",12,14,BMF,"Michael Boschat",G,0,0,0
+2458468," 2018",12,15,BMF,"Michael Boschat",F,0,0,0
+2458469," 2018",12,16,BMF,"Michael Boschat",F,0,0,0
+2458472," 2018",12,19,BMF,"Michael Boschat",E,0,0,0
+2458473," 2018",12,20,BMF,"Michael Boschat",E,0,0,0
+2458476," 2018",12,23,BMF,"Michael Boschat",F,0,0,0
+2458477," 2018",12,24,BMF,"Michael Boschat",F,0,0,0
+2458478," 2018",12,25,BMF,"Michael Boschat",E,0,0,0
+2458479," 2018",12,26,BMF,"Michael Boschat",E,0,0,0
+2458480," 2018",12,27,BMF,"Michael Boschat",E,0,0,0
+2458481," 2018",12,28,BMF,"Michael Boschat",G,0,0,0
+2458482," 2018",12,29,BMF,"Michael Boschat",G,0,0,0
+2458483," 2018",12,30,BMF,"Michael Boschat",F,0,0,0
+2458484," 2018",12,31,BMF,"Michael Boschat",G,0,0,0
+2458454," 2018",12,1,ARAG,"Gema Araujo",F,0,0,0
+2458455," 2018",12,2,ARAG,"Gema Araujo",F,0,0,0
+2458456," 2018",12,3,ARAG,"Gema Araujo",G,0,0,0
+2458457," 2018",12,4,ARAG,"Gema Araujo",F,0,0,0
+2458458," 2018",12,5,ARAG,"Gema Araujo",F,1,10,20
+2458459," 2018",12,6,ARAG,"Gema Araujo",G,1,13,23
+2458460," 2018",12,7,ARAG,"Gema Araujo",G,1,6,16
+2458461," 2018",12,8,ARAG,"Gema Araujo",F,1,2,12
+2458462," 2018",12,9,ARAG,"Gema Araujo",F,1,1,11
+2458463," 2018",12,10,ARAG,"Gema Araujo",F,0,0,0
+2458464," 2018",12,11,ARAG,"Gema Araujo",F,1,2,12
+2458465," 2018",12,12,ARAG,"Gema Araujo",F,0,0,0
+2458466," 2018",12,13,ARAG,"Gema Araujo",F,0,0,0
+2458467," 2018",12,14,ARAG,"Gema Araujo",F,1,1,11
+2458468," 2018",12,15,ARAG,"Gema Araujo",F,1,3,13
+2458469," 2018",12,16,ARAG,"Gema Araujo",F,1,1,11
+2458470," 2018",12,17,ARAG,"Gema Araujo",G,0,0,0
+2458471," 2018",12,18,ARAG,"Gema Araujo",F,0,0,0
+2458472," 2018",12,19,ARAG,"Gema Araujo",F,0,0,0
+2458480," 2018",12,27,ARAG,"Gema Araujo",F,0,0,0
+2458481," 2018",12,28,ARAG,"Gema Araujo",G,0,0,0
+2458482," 2018",12,29,ARAG,"Gema Araujo",F,0,0,0
+2458483," 2018",12,30,ARAG,"Gema Araujo",F,1,2,12
+2458484," 2018",12,31,ARAG,"Gema Araujo",F,1,1,11
+2458481," 2018",12,28,BERJ,"Jose Alberto Berdejo",F,0,0,0
+2458482," 2018",12,29,BERJ,"Jose Alberto Berdejo",F,0,0,0
+2458483," 2018",12,30,BERJ,"Jose Alberto Berdejo",P,0,0,0
+2458484," 2018",12,31,BERJ,"Jose Alberto Berdejo",P,0,0,0
+2458484," 2018",12,31,BATR,"Roberto Battaiola",F,0,0,0
+2458484," 2018",12,31,FERJ,"Javier Ruiz",P,0,0,0
+2458454," 2018",12,1,HAYK,"Kim Hay",P,0,0,0
+2458461," 2018",12,8,HAYK,"Kim Hay",E,0,0,0
+2458462," 2018",12,9,HAYK,"Kim Hay",F,0,0,0
+2458468," 2018",12,15,HAYK,"Kim Hay",F,0,0,0
+2458469," 2018",12,16,HAYK,"Kim Hay",P,0,0,0
+2458475," 2018",12,22,HAYK,"Kim Hay",P,0,0,0
+2458476," 2018",12,23,HAYK,"Kim Hay",F,0,0,0
+2458482," 2018",12,29,HAYK,"Kim Hay",F,0,0,0
+2458484," 2018",12,31,HAYK,"Kim Hay",P,0,0,0
+2458454," 2018",12,1,DMIB,Deconinck,P,0,0,0
+2458456," 2018",12,3,DMIB,Deconinck,F,0,0,0
+2458458," 2018",12,5,DMIB,Deconinck,E,1,12,22
+2458459," 2018",12,6,DMIB,Deconinck,F,1,7,17
+2458460," 2018",12,7,DMIB,Deconinck,G,1,7,17
+2458461," 2018",12,8,DMIB,Deconinck,G,1,6,16
+2458462," 2018",12,9,DMIB,Deconinck,P,0,0,0
+2458464," 2018",12,11,DMIB,Deconinck,G,1,1,11
+2458467," 2018",12,14,DMIB,Deconinck,G,1,2,12
+2458470," 2018",12,17,DMIB,Deconinck,G,0,0,0
+2458471," 2018",12,18,DMIB,Deconinck,P,0,0,0
+2458473," 2018",12,20,DMIB,Deconinck,P,0,0,0
+2458475," 2018",12,22,DMIB,Deconinck,F,0,0,0
+2458476," 2018",12,23,DMIB,Deconinck,P,0,0,0
+2458478," 2018",12,25,DMIB,Deconinck,G,0,0,0
+2458479," 2018",12,26,DMIB,Deconinck,P,0,0,0
+2458480," 2018",12,27,DMIB,Deconinck,F,0,0,0
+2458481," 2018",12,28,DMIB,Deconinck,F,0,0,0
+2458482," 2018",12,29,DMIB,Deconinck,E,0,0,0
+2458483," 2018",12,30,DMIB,Deconinck,P,0,0,0
+2458484," 2018",12,31,DMIB,Deconinck,E,1,1,11
+2458455," 2018",12,2,BROB,"Robert Brown",G,0,0,0
+2458456," 2018",12,3,BROB,"Robert Brown",E,0,0,0
+2458459," 2018",12,6,BROB,"Robert Brown",E,1,7,17
+2458460," 2018",12,7,BROB,"Robert Brown",G,1,4,14
+2458470," 2018",12,17,BROB,"Robert Brown",G,0,0,0
+2458471," 2018",12,18,BROB,"Robert Brown",G,0,0,0
+2458472," 2018",12,19,BROB,"Robert Brown",G,0,0,0
+2458473," 2018",12,20,BROB,"Robert Brown",F,0,0,0
+2458475," 2018",12,22,BROB,"Robert Brown",E,0,0,0
+2458478," 2018",12,25,BROB,"Robert Brown",E,0,0,0
+2458479," 2018",12,26,BROB,"Robert Brown",E,0,0,0
+2458480," 2018",12,27,BROB,"Robert Brown",G,0,0,0
+2458481," 2018",12,28,BROB,"Robert Brown",E,0,0,0
+2458482," 2018",12,29,BROB,"Robert Brown",G,0,0,0
+2458483," 2018",12,30,BROB,"Robert Brown",G,0,0,0
+2458484," 2018",12,31,BROB,"Robert Brown",E,0,0,0
+2458484," 2018",12,31,ASA,Salvador,G,0,0,0
+2458476," 2018",12,23,FLET,"Tom Fleming",F,0,0,0
+2458477," 2018",12,24,FLET,"Tom Fleming",F,0,0,0
+2458480," 2018",12,27,FLET,"Tom Fleming",G,0,0,0
+2458481," 2018",12,28,FLET,"Tom Fleming",G,0,0,0
+2458482," 2018",12,29,FLET,"Tom Fleming",F,0,0,0
+2458484," 2018",12,31,FLET,"Tom Fleming",G,0,0,0
+2458484," 2018",12,31,EHOA,"Howard Eskildsen",E,0,0,0
+2458454," 2018",12,1,CHAG,"German Morales",F,0,0,0
+2458456," 2018",12,3,CHAG,"German Morales",F,0,0,0
+2458457," 2018",12,4,CHAG,"German Morales",F,0,0,0
+2458458," 2018",12,5,CHAG,"German Morales",F,1,9,19
+2458459," 2018",12,6,CHAG,"German Morales",F,1,6,16
+2458460," 2018",12,7,CHAG,"German Morales",F,1,6,16
+2458461," 2018",12,8,CHAG,"German Morales",F,0,0,0
+2458462," 2018",12,9,CHAG,"German Morales",G,0,0,0
+2458463," 2018",12,10,CHAG,"German Morales",G,0,0,0
+2458464," 2018",12,11,CHAG,"German Morales",G,0,0,0
+2458465," 2018",12,12,CHAG,"German Morales",G,0,0,0
+2458466," 2018",12,13,CHAG,"German Morales",F,0,0,0
+2458467," 2018",12,14,CHAG,"German Morales",G,0,0,0
+2458469," 2018",12,16,CHAG,"German Morales",F,0,0,0
+2458470," 2018",12,17,CHAG,"German Morales",F,0,0,0
+2458473," 2018",12,20,CHAG,"German Morales",F,0,0,0
+2458474," 2018",12,21,CHAG,"German Morales",F,0,0,0
+2458475," 2018",12,22,CHAG,"German Morales",F,0,0,0
+2458478," 2018",12,25,CHAG,"German Morales",F,1,4,14
+2458479," 2018",12,26,CHAG,"German Morales",G,0,0,0
+2458480," 2018",12,27,CHAG,"German Morales",F,0,0,0
+2458481," 2018",12,28,CHAG,"German Morales",F,0,0,0
+2458458," 2018",12,5,DROB,"Robert Dudley",F,0,0,0
+2458462," 2018",12,9,DROB,"Robert Dudley",F,0,0,0
+2458454," 2018",12,1,LEVM,"Monty Leventhal OAM",F,0,0,0
+2458455," 2018",12,2,LEVM,"Monty Leventhal OAM",G,0,0,0
+2458456," 2018",12,3,LEVM,"Monty Leventhal OAM",G,0,0,0
+2458458," 2018",12,5,LEVM,"Monty Leventhal OAM",F,1,5,15
+2458459," 2018",12,6,LEVM,"Monty Leventhal OAM",G,1,5,15
+2458460," 2018",12,7,LEVM,"Monty Leventhal OAM",E,1,2,12
+2458461," 2018",12,8,LEVM,"Monty Leventhal OAM",G,0,0,0
+2458462," 2018",12,9,LEVM,"Monty Leventhal OAM",G,0,0,0
+2458465," 2018",12,12,LEVM,"Monty Leventhal OAM",G,0,0,0
+2458468," 2018",12,15,LEVM,"Monty Leventhal OAM",F,0,0,0
+2458469," 2018",12,16,LEVM,"Monty Leventhal OAM",G,0,0,0
+2458472," 2018",12,19,LEVM,"Monty Leventhal OAM",G,0,0,0
+2458475," 2018",12,22,LEVM,"Monty Leventhal OAM",G,0,0,0
+2458476," 2018",12,23,LEVM,"Monty Leventhal OAM",E,0,0,0
+2458477," 2018",12,24,LEVM,"Monty Leventhal OAM",G,0,0,0
+2458478," 2018",12,25,LEVM,"Monty Leventhal OAM",E,0,0,0
+2458479," 2018",12,26,LEVM,"Monty Leventhal OAM",G,0,0,0
+2458480," 2018",12,27,LEVM,"Monty Leventhal OAM",G,0,0,0
+2458481," 2018",12,28,LEVM,"Monty Leventhal OAM",F,0,0,0
+2458482," 2018",12,29,LEVM,"Monty Leventhal OAM",F,0,0,0
+2458483," 2018",12,30,LEVM,"Monty Leventhal OAM",G,0,0,0
+2458484," 2018",12,31,LEVM,"Monty Leventhal OAM",G,0,0,0
+2458455," 2018",12,2,STAB,"Brian Gordon-States",G,0,0,0
+2458456," 2018",12,3,STAB,"Brian Gordon-States",G,0,0,0
+2458457," 2018",12,4,STAB,"Brian Gordon-States",G,0,0,0
+2458460," 2018",12,7,STAB,"Brian Gordon-States",F,1,3,13
+2458461," 2018",12,8,STAB,"Brian Gordon-States",F,0,0,0
+2458462," 2018",12,9,STAB,"Brian Gordon-States",F,0,0,0
+2458464," 2018",12,11,STAB,"Brian Gordon-States",G,0,0,0
+2458466," 2018",12,13,STAB,"Brian Gordon-States",G,0,0,0
+2458467," 2018",12,14,STAB,"Brian Gordon-States",F,0,0,0
+2458469," 2018",12,16,STAB,"Brian Gordon-States",F,0,0,0
+2458470," 2018",12,17,STAB,"Brian Gordon-States",G,0,0,0
+2458472," 2018",12,19,STAB,"Brian Gordon-States",G,0,0,0
+2458474," 2018",12,21,STAB,"Brian Gordon-States",F,0,0,0
+2458475," 2018",12,22,STAB,"Brian Gordon-States",F,0,0,0
+2458477," 2018",12,24,STAB,"Brian Gordon-States",F,0,0,0
+2458478," 2018",12,25,STAB,"Brian Gordon-States",F,0,0,0
+2458480," 2018",12,27,STAB,"Brian Gordon-States",G,0,0,0
+2458481," 2018",12,28,STAB,"Brian Gordon-States",F,0,0,0
+2458457," 2018",12,4,DIVA,"Ivo Demeulenaere",F,0,0,0
+2458462," 2018",12,9,DIVA,"Ivo Demeulenaere",P,0,0,0
+2458463," 2018",12,10,DIVA,"Ivo Demeulenaere",P,0,0,0
+2458464," 2018",12,11,DIVA,"Ivo Demeulenaere",F,1,2,12
+2458465," 2018",12,12,DIVA,"Ivo Demeulenaere",F,0,0,0
+2458468," 2018",12,15,DIVA,"Ivo Demeulenaere",F,0,0,0
+2458469," 2018",12,16,DIVA,"Ivo Demeulenaere",F,0,0,0
+2458470," 2018",12,17,DIVA,"Ivo Demeulenaere",F,0,0,0
+2458471," 2018",12,18,DIVA,"Ivo Demeulenaere",P,0,0,0
+2458472," 2018",12,19,DIVA,"Ivo Demeulenaere",P,0,0,0
+2458475," 2018",12,22,DIVA,"Ivo Demeulenaere",F,0,0,0
+2458477," 2018",12,24,DIVA,"Ivo Demeulenaere",F,0,0,0
+2458478," 2018",12,25,DIVA,"Ivo Demeulenaere",G,0,0,0
+2458479," 2018",12,26,DIVA,"Ivo Demeulenaere",F,0,0,0
+2458480," 2018",12,27,DIVA,"Ivo Demeulenaere",F,0,0,0
+2458467," 2018",12,14,KAPJ,"John Kaplan",G,0,0,0
+2458468," 2018",12,15,KAPJ,"John Kaplan",G,0,0,0
+2458469," 2018",12,16,KAPJ,"John Kaplan",G,0,0,0
+2458470," 2018",12,17,KAPJ,"John Kaplan",G,0,0,0
+2458471," 2018",12,18,KAPJ,"John Kaplan",G,0,0,0
+2458477," 2018",12,24,KAPJ,"John Kaplan",G,0,0,0
+2458482," 2018",12,29,KAPJ,"John Kaplan",G,0,0,0
+2458458," 2018",12,5,RLM,MAT,E,1,2,12
+2458464," 2018",12,11,RLM,MAT,E,0,0,0
+2458467," 2018",12,14,RLM,MAT,E,0,0,0
+2458478," 2018",12,25,RLM,MAT,E,0,0,0
+2458482," 2018",12,29,RLM,MAT,E,0,0,0
+2458483," 2018",12,30,RLM,MAT,E,0,0,0
+2458454," 2018",12,1,SDOH,"Jan Alvestad",E,0,0,0
+2458455," 2018",12,2,SDOH,"Jan Alvestad",E,0,0,0
+2458456," 2018",12,3,SDOH,"Jan Alvestad",E,0,0,0
+2458457," 2018",12,4,SDOH,"Jan Alvestad",E,0,0,0
+2458458," 2018",12,5,SDOH,"Jan Alvestad",E,2,9,29
+2458459," 2018",12,6,SDOH,"Jan Alvestad",E,1,12,22
+2458460," 2018",12,7,SDOH,"Jan Alvestad",E,1,8,18
+2458461," 2018",12,8,SDOH,"Jan Alvestad",E,2,3,23
+2458462," 2018",12,9,SDOH,"Jan Alvestad",E,0,0,0
+2458463," 2018",12,10,SDOH,"Jan Alvestad",E,0,0,0
+2458464," 2018",12,11,SDOH,"Jan Alvestad",E,1,2,12
+2458465," 2018",12,12,SDOH,"Jan Alvestad",E,1,1,11
+2458466," 2018",12,13,SDOH,"Jan Alvestad",E,0,0,0
+2458467," 2018",12,14,SDOH,"Jan Alvestad",E,2,3,23
+2458468," 2018",12,15,SDOH,"Jan Alvestad",E,1,3,13
+2458469," 2018",12,16,SDOH,"Jan Alvestad",E,1,1,11
+2458470," 2018",12,17,SDOH,"Jan Alvestad",E,0,0,0
+2458471," 2018",12,18,SDOH,"Jan Alvestad",E,0,0,0
+2458472," 2018",12,19,SDOH,"Jan Alvestad",E,0,0,0
+2458473," 2018",12,20,SDOH,"Jan Alvestad",E,0,0,0
+2458474," 2018",12,21,SDOH,"Jan Alvestad",E,1,2,12
+2458475," 2018",12,22,SDOH,"Jan Alvestad",E,0,0,0
+2458476," 2018",12,23,SDOH,"Jan Alvestad",E,0,0,0
+2458477," 2018",12,24,SDOH,"Jan Alvestad",E,0,0,0
+2458478," 2018",12,25,SDOH,"Jan Alvestad",E,0,0,0
+2458479," 2018",12,26,SDOH,"Jan Alvestad",E,0,0,0
+2458480," 2018",12,27,SDOH,"Jan Alvestad",E,1,1,11
+2458481," 2018",12,28,SDOH,"Jan Alvestad",E,0,0,0
+2458482," 2018",12,29,SDOH,"Jan Alvestad",E,0,0,0
+2458483," 2018",12,30,SDOH,"Jan Alvestad",E,3,6,36
+2458484," 2018",12,31,SDOH,"Jan Alvestad",E,2,3,23
+2458484," 2018",12,31,BRAF,"Raffaello Braga",P,0,0,0
+2458454," 2018",12,1,MJHA,"JOHN H MCCAMMON",E,0,0,0
+2458455," 2018",12,2,MJHA,"JOHN H MCCAMMON",E,0,0,0
+2458456," 2018",12,3,MJHA,"JOHN H MCCAMMON",E,0,0,0
+2458457," 2018",12,4,MJHA,"JOHN H MCCAMMON",E,0,0,0
+2458458," 2018",12,5,MJHA,"JOHN H MCCAMMON",G,0,0,0
+2458459," 2018",12,6,MJHA,"JOHN H MCCAMMON",G,1,4,14
+2458460," 2018",12,7,MJHA,"JOHN H MCCAMMON",E,1,4,14
+2458461," 2018",12,8,MJHA,"JOHN H MCCAMMON",G,0,0,0
+2458462," 2018",12,9,MJHA,"JOHN H MCCAMMON",E,0,0,0
+2458463," 2018",12,10,MJHA,"JOHN H MCCAMMON",E,0,0,0
+2458464," 2018",12,11,MJHA,"JOHN H MCCAMMON",E,0,0,0
+2458465," 2018",12,12,MJHA,"JOHN H MCCAMMON",F,0,0,0
+2458466," 2018",12,13,MJHA,"JOHN H MCCAMMON",E,0,0,0
+2458467," 2018",12,14,MJHA,"JOHN H MCCAMMON",E,0,0,0
+2458469," 2018",12,16,MJHA,"JOHN H MCCAMMON",G,0,0,0
+2458470," 2018",12,17,MJHA,"JOHN H MCCAMMON",E,0,0,0
+2458471," 2018",12,18,MJHA,"JOHN H MCCAMMON",E,0,0,0
+2458472," 2018",12,19,MJHA,"JOHN H MCCAMMON",G,0,0,0
+2458473," 2018",12,20,MJHA,"JOHN H MCCAMMON",E,0,0,0
+2458474," 2018",12,21,MJHA,"JOHN H MCCAMMON",E,0,0,0
+2458475," 2018",12,22,MJHA,"JOHN H MCCAMMON",G,0,0,0
+2458476," 2018",12,23,MJHA,"JOHN H MCCAMMON",E,0,0,0
+2458477," 2018",12,24,MJHA,"JOHN H MCCAMMON",E,0,0,0
+2458478," 2018",12,25,MJHA,"JOHN H MCCAMMON",E,0,0,0
+2458479," 2018",12,26,MJHA,"JOHN H MCCAMMON",G,0,0,0
+2458480," 2018",12,27,MJHA,"JOHN H MCCAMMON",F,0,0,0
+2458481," 2018",12,28,MJHA,"JOHN H MCCAMMON",E,0,0,0
+2458482," 2018",12,29,MJHA,"JOHN H MCCAMMON",E,0,0,0
+2458483," 2018",12,30,MJHA,"JOHN H MCCAMMON",E,0,0,0
+2458463," 2018",12,10,ERB,"Bob Eramia",F,0,0,0
+2458477," 2018",12,24,ERB,"Bob Eramia",G,0,0,0
+2458484," 2018",12,31,ERB,"Bob Eramia",P,0,0,0
+2458454," 2018",12,1,FUJK,"Kenichi Fujimori",P,0,0,0
+2458455," 2018",12,2,FUJK,"Kenichi Fujimori",P,0,0,0
+2458458," 2018",12,5,FUJK,"Kenichi Fujimori",P,1,4,14
+2458461," 2018",12,8,FUJK,"Kenichi Fujimori",P,0,0,0
+2458463," 2018",12,10,FUJK,"Kenichi Fujimori",P,0,0,0
+2458464," 2018",12,11,FUJK,"Kenichi Fujimori",P,0,0,0
+2458465," 2018",12,12,FUJK,"Kenichi Fujimori",P,0,0,0
+2458466," 2018",12,13,FUJK,"Kenichi Fujimori",F,0,0,0
+2458467," 2018",12,14,FUJK,"Kenichi Fujimori",F,0,0,0
+2458468," 2018",12,15,FUJK,"Kenichi Fujimori",G,0,0,0
+2458469," 2018",12,16,FUJK,"Kenichi Fujimori",P,0,0,0
+2458470," 2018",12,17,FUJK,"Kenichi Fujimori",P,0,0,0
+2458471," 2018",12,18,FUJK,"Kenichi Fujimori",F,0,0,0
+2458472," 2018",12,19,FUJK,"Kenichi Fujimori",F,0,0,0
+2458474," 2018",12,21,FUJK,"Kenichi Fujimori",G,0,0,0
+2458477," 2018",12,24,FUJK,"Kenichi Fujimori",G,0,0,0
+2458478," 2018",12,25,FUJK,"Kenichi Fujimori",F,0,0,0
+2458480," 2018",12,27,FUJK,"Kenichi Fujimori",F,0,0,0
+2458481," 2018",12,28,FUJK,"Kenichi Fujimori",P,0,0,0
+2458482," 2018",12,29,FUJK,"Kenichi Fujimori",F,0,0,0
+2458483," 2018",12,30,FUJK,"Kenichi Fujimori",F,0,0,0
+2458484," 2018",12,31,FUJK,"Kenichi Fujimori",F,0,0,0
+2458455," 2018",12,2,AJV,"Javier Alonso Santiago",F,0,0,0
+2458456," 2018",12,3,AJV,"Javier Alonso Santiago",G,0,0,0
+2458457," 2018",12,4,AJV,"Javier Alonso Santiago",F,0,0,0
+2458461," 2018",12,8,AJV,"Javier Alonso Santiago",P,0,0,0
+2458462," 2018",12,9,AJV,"Javier Alonso Santiago",G,0,0,0
+2458463," 2018",12,10,AJV,"Javier Alonso Santiago",P,0,0,0
+2458464," 2018",12,11,AJV,"Javier Alonso Santiago",P,1,2,12
+2458465," 2018",12,12,AJV,"Javier Alonso Santiago",F,0,0,0
+2458466," 2018",12,13,AJV,"Javier Alonso Santiago",G,0,0,0
+2458468," 2018",12,15,AJV,"Javier Alonso Santiago",P,1,1,11
+2458469," 2018",12,16,AJV,"Javier Alonso Santiago",G,0,0,0
+2458470," 2018",12,17,AJV,"Javier Alonso Santiago",F,0,0,0
+2458471," 2018",12,18,AJV,"Javier Alonso Santiago",P,0,0,0
+2458472," 2018",12,19,AJV,"Javier Alonso Santiago",G,0,0,0
+2458473," 2018",12,20,AJV,"Javier Alonso Santiago",F,0,0,0
+2458474," 2018",12,21,AJV,"Javier Alonso Santiago",G,0,0,0
+2458480," 2018",12,27,AJV,"Javier Alonso Santiago",G,0,0,0
+2458482," 2018",12,29,AJV,"Javier Alonso Santiago",G,0,0,0
+2458483," 2018",12,30,AJV,"Javier Alonso Santiago",F,0,0,0
+2458484," 2018",12,31,AJV,"Javier Alonso Santiago",G,1,1,11
+2458473," 2018",12,20,LKR,"Kristine Larsen",F,0,0,0
+2458483," 2018",12,30,CNT,"Dean Chantiles",F,0,0,0
+2458455," 2018",12,2,DUBF,"Franky dubois",F,0,0,0
+2458456," 2018",12,3,DUBF,"Franky dubois",F,0,0,0
+2458457," 2018",12,4,DUBF,"Franky dubois",P,0,0,0
+2458461," 2018",12,8,DUBF,"Franky dubois",F,0,0,0
+2458462," 2018",12,9,DUBF,"Franky dubois",F,0,0,0
+2458463," 2018",12,10,DUBF,"Franky dubois",F,0,0,0
+2458464," 2018",12,11,DUBF,"Franky dubois",F,1,2,12
+2458465," 2018",12,12,DUBF,"Franky dubois",F,0,0,0
+2458468," 2018",12,15,DUBF,"Franky dubois",G,0,0,0
+2458469," 2018",12,16,DUBF,"Franky dubois",G,0,0,0
+2458470," 2018",12,17,DUBF,"Franky dubois",F,0,0,0
+2458472," 2018",12,19,DUBF,"Franky dubois",G,0,0,0
+2458473," 2018",12,20,DUBF,"Franky dubois",F,0,0,0
+2458474," 2018",12,21,DUBF,"Franky dubois",P,0,0,0
+2458475," 2018",12,22,DUBF,"Franky dubois",G,0,0,0
+2458477," 2018",12,24,DUBF,"Franky dubois",F,0,0,0
+2458478," 2018",12,25,DUBF,"Franky dubois",E,0,0,0
+2458479," 2018",12,26,DUBF,"Franky dubois",G,0,0,0
+2458480," 2018",12,27,DUBF,"Franky dubois",P,0,0,0
+2458482," 2018",12,29,DUBF,"Franky dubois",P,0,0,0
+2458483," 2018",12,30,DUBF,"Franky dubois",G,0,0,0
+2458466," 2018",12,13,DUBF,"Franky dubois",F,0,0,0
+2458454," 2018",12,1,ATE,"Teofilo Arranz Heras",G,0,0,0
+2458455," 2018",12,2,ATE,"Teofilo Arranz Heras",G,0,0,0
+2458456," 2018",12,3,ATE,"Teofilo Arranz Heras",F,0,0,0
+2458457," 2018",12,4,ATE,"Teofilo Arranz Heras",G,0,0,0
+2458458," 2018",12,5,ATE,"Teofilo Arranz Heras",G,1,9,19
+2458459," 2018",12,6,ATE,"Teofilo Arranz Heras",F,1,7,17
+2458460," 2018",12,7,ATE,"Teofilo Arranz Heras",G,1,8,18
+2458461," 2018",12,8,ATE,"Teofilo Arranz Heras",G,1,1,11
+2458462," 2018",12,9,ATE,"Teofilo Arranz Heras",G,0,0,0
+2458467," 2018",12,14,ATE,"Teofilo Arranz Heras",F,0,0,0
+2458470," 2018",12,17,ATE,"Teofilo Arranz Heras",F,0,0,0
+2458476," 2018",12,23,ATE,"Teofilo Arranz Heras",G,0,0,0
+2458477," 2018",12,24,ATE,"Teofilo Arranz Heras",G,0,0,0
+2458478," 2018",12,25,ATE,"Teofilo Arranz Heras",G,0,0,0
+2458479," 2018",12,26,ATE,"Teofilo Arranz Heras",G,0,0,0
+2458480," 2018",12,27,ATE,"Teofilo Arranz Heras",G,0,0,0
+2458481," 2018",12,28,ATE,"Teofilo Arranz Heras",G,0,0,0
+2458482," 2018",12,29,ATE,"Teofilo Arranz Heras",G,0,0,0
+2458483," 2018",12,30,ATE,"Teofilo Arranz Heras",G,0,0,0
+2458484," 2018",12,31,ATE,"Teofilo Arranz Heras",G,0,0,0
+2458454," 2018",12,1,CIOA,"IOANNIS CHOUINAVAS",F,0,0,0
+2458455," 2018",12,2,CIOA,"IOANNIS CHOUINAVAS",F,0,0,0
+2458456," 2018",12,3,CIOA,"IOANNIS CHOUINAVAS",F,0,0,0
+2458457," 2018",12,4,CIOA,"IOANNIS CHOUINAVAS",F,0,0,0
+2458474," 2018",12,21,CIOA,"IOANNIS CHOUINAVAS",P,0,0,0
+2458481," 2018",12,28,CIOA,"IOANNIS CHOUINAVAS",P,0,0,0
+2458458," 2018",12,5,DJOB,"Jorge del Rosario",F,1,13,23
+2458459," 2018",12,6,DJOB,"Jorge del Rosario",P,1,9,19
+2458460," 2018",12,7,DJOB,"Jorge del Rosario",F,1,5,15
+2458462," 2018",12,9,DJOB,"Jorge del Rosario",F,0,0,0
+2458468," 2018",12,15,DJOB,"Jorge del Rosario",P,0,0,0
+2458469," 2018",12,16,DJOB,"Jorge del Rosario",F,0,0,0
+2458472," 2018",12,19,DJOB,"Jorge del Rosario",F,0,0,0
+2458481," 2018",12,28,DJOB,"Jorge del Rosario",G,0,0,0
+2458484," 2018",12,31,DJOB,"Jorge del Rosario",G,1,1,11
+2458467," 2018",12,14,JGE,Gerardo,P,0,0,0
+2458478," 2018",12,25,JGE,Gerardo,G,0,0,0
+2458481," 2018",12,28,JGE,Gerardo,G,0,0,0
+2458482," 2018",12,29,JGE,Gerardo,P,0,0,0
+2458483," 2018",12,30,JGE,Gerardo,F,0,0,0
+2458484," 2018",12,31,JGE,Gerardo,F,1,1,11
+2458454," 2018",12,1,URBP,"PIOTR URBANSKI",G,0,0,0
+2458455," 2018",12,2,URBP,"PIOTR URBANSKI",G,0,0,0
+2458461," 2018",12,8,URBP,"PIOTR URBANSKI",G,1,1,11
+2458468," 2018",12,15,URBP,"PIOTR URBANSKI",F,0,0,0
+2458475," 2018",12,22,URBP,"PIOTR URBANSKI",G,0,0,0
+2458476," 2018",12,23,URBP,"PIOTR URBANSKI",G,0,0,0
+2458477," 2018",12,24,URBP,"PIOTR URBANSKI",G,0,0,0
+2458482," 2018",12,29,URBP,"PIOTR URBANSKI",G,0,0,0
+2458484," 2018",12,31,URBP,"PIOTR URBANSKI",G,1,1,11
+2458457," 2018",12,4,DEMF,"Frank Dempsey",G,0,0,0
+2458460," 2018",12,7,DEMF,"Frank Dempsey",G,0,0,0
+2458461," 2018",12,8,DEMF,"Frank Dempsey",G,0,0,0
+2458468," 2018",12,15,BRAF,"Raffaello Braga",F,1,3,13
+2458460," 2018",12,7,BRAF,"Raffaello Braga",G,1,14,24
+2458454," 2018",12,1,MARE,"Enrico Mariani",F,0,0,0
+2458460," 2018",12,7,MARE,"Enrico Mariani",F,1,3,13
+2458468," 2018",12,15,MARE,"Enrico Mariani",F,0,0,0
+2458475," 2018",12,22,MARE,"Enrico Mariani",P,0,0,0
+2458476," 2018",12,23,MARE,"Enrico Mariani",P,0,0,0
+2458479," 2018",12,26,MARE,"Enrico Mariani",F,0,0,0
+2458482," 2018",12,29,MARE,"Enrico Mariani",P,0,0,0
+2458484," 2018",12,31,MARE,"Enrico Mariani",P,0,0,0
+2458461," 2018",12,8,SNE,"Neil Simmons",F,0,0,0
+2458468," 2018",12,15,SNE,"Neil Simmons",G,0,0,0
+2458483," 2018",12,30,SNE,"Neil Simmons",P,0,0,0
+2458454," 2018",12,1,MJAF,"Juan Antonio Moreno Quesada",E,0,0,0
+2458455," 2018",12,2,MJAF,"Juan Antonio Moreno Quesada",G,0,0,0
+2458456," 2018",12,3,MJAF,"Juan Antonio Moreno Quesada",F,0,0,0
+2458457," 2018",12,4,MJAF,"Juan Antonio Moreno Quesada",G,1,2,12
+2458458," 2018",12,5,MJAF,"Juan Antonio Moreno Quesada",E,1,12,22
+2458459," 2018",12,6,MJAF,"Juan Antonio Moreno Quesada",E,1,16,26
+2458460," 2018",12,7,MJAF,"Juan Antonio Moreno Quesada",E,1,12,22
+2458461," 2018",12,8,MJAF,"Juan Antonio Moreno Quesada",E,1,6,16
+2458462," 2018",12,9,MJAF,"Juan Antonio Moreno Quesada",E,0,0,0
+2458463," 2018",12,10,MJAF,"Juan Antonio Moreno Quesada",E,0,0,0
+2458464," 2018",12,11,MJAF,"Juan Antonio Moreno Quesada",G,1,4,14
+2458465," 2018",12,12,MJAF,"Juan Antonio Moreno Quesada",F,0,0,0
+2458466," 2018",12,13,MJAF,"Juan Antonio Moreno Quesada",G,0,0,0
+2458467," 2018",12,14,MJAF,"Juan Antonio Moreno Quesada",G,1,2,12
+2458468," 2018",12,15,MJAF,"Juan Antonio Moreno Quesada",G,1,2,12
+2458469," 2018",12,16,MJAF,"Juan Antonio Moreno Quesada",G,1,1,11
+2458470," 2018",12,17,MJAF,"Juan Antonio Moreno Quesada",E,0,0,0
+2458471," 2018",12,18,MJAF,"Juan Antonio Moreno Quesada",E,0,0,0
+2458472," 2018",12,19,MJAF,"Juan Antonio Moreno Quesada",E,0,0,0
+2458473," 2018",12,20,MJAF,"Juan Antonio Moreno Quesada",E,0,0,0
+2458474," 2018",12,21,MJAF,"Juan Antonio Moreno Quesada",E,0,0,0
+2458475," 2018",12,22,MJAF,"Juan Antonio Moreno Quesada",G,0,0,0
+2458476," 2018",12,23,MJAF,"Juan Antonio Moreno Quesada",G,0,0,0
+2458477," 2018",12,24,MJAF,"Juan Antonio Moreno Quesada",G,0,0,0
+2458478," 2018",12,25,MJAF,"Juan Antonio Moreno Quesada",G,0,0,0
+2458479," 2018",12,26,MJAF,"Juan Antonio Moreno Quesada",E,0,0,0
+2458480," 2018",12,27,MJAF,"Juan Antonio Moreno Quesada",E,0,0,0
+2458481," 2018",12,28,MJAF,"Juan Antonio Moreno Quesada",E,0,0,0
+2458482," 2018",12,29,MJAF,"Juan Antonio Moreno Quesada",G,0,0,0
+2458484," 2018",12,31,MJAF,"Juan Antonio Moreno Quesada",G,0,0,0
+2458454," 2018",12,1,KROL,"Larry Krozel",F,0,0,0
+2458456," 2018",12,3,KROL,"Larry Krozel",F,0,0,0
+2458458," 2018",12,5,KROL,"Larry Krozel",F,0,0,0
+2458459," 2018",12,6,KROL,"Larry Krozel",F,0,0,0
+2458460," 2018",12,7,KROL,"Larry Krozel",F,0,0,0
+2458461," 2018",12,8,KROL,"Larry Krozel",F,0,0,0
+2458462," 2018",12,9,KROL,"Larry Krozel",P,0,0,0
+2458463," 2018",12,10,KROL,"Larry Krozel",F,0,0,0
+2458464," 2018",12,11,KROL,"Larry Krozel",F,0,0,0
+2458465," 2018",12,12,KROL,"Larry Krozel",F,0,0,0
+2458466," 2018",12,13,KROL,"Larry Krozel",F,0,0,0
+2458467," 2018",12,14,KROL,"Larry Krozel",F,0,0,0
+2458470," 2018",12,17,KROL,"Larry Krozel",F,0,0,0
+2458471," 2018",12,18,KROL,"Larry Krozel",P,0,0,0
+2458472," 2018",12,19,KROL,"Larry Krozel",F,0,0,0
+2458473," 2018",12,20,KROL,"Larry Krozel",F,0,0,0
+2458475," 2018",12,22,KROL,"Larry Krozel",F,0,0,0
+2458476," 2018",12,23,KROL,"Larry Krozel",F,0,0,0
+2458478," 2018",12,25,KROL,"Larry Krozel",F,0,0,0
+2458479," 2018",12,26,KROL,"Larry Krozel",F,0,0,0
+2458480," 2018",12,27,KROL,"Larry Krozel",F,0,0,0
+2458483," 2018",12,30,KROL,"Larry Krozel",F,0,0,0
+2458484," 2018",12,31,KROL,"Larry Krozel",F,0,0,0
