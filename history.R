@@ -29,9 +29,9 @@ dbSendStatement(mydb, "ALTER TABLE DAILY MODIFY COLUMN w int")
 # dbDisconnect(mydb)
 #
 # SQLite stuff
-db <- dbConnect(SQLite(), dbname="Rhowe.sqlite3")
+db <- dbConnect(SQLite(), dbname="solarBulletin.sqlite3")
 dbListTables(db)
-dbRemoveTable(db,"daily")
+dbRemoveTable(db,"DAILY")
 # # SQLite: stuff
 # 
 dbListTables(db)
@@ -44,4 +44,5 @@ dbWriteTable(db, "DAILY", HISTORY,overwrite=TRUE)
 # # SQLite: stuff
 # 
 dbListTables(db)
-
+dbGetQuery(db,"select * from daily")
+dbDisconnect(db)

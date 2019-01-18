@@ -1,0 +1,56 @@
+---
+title: "Bookdown"
+output:
+  pdf_document: default
+  
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE,connection = "mydb")
+library(RMySQL)
+library(ggplot2)
+
+library(DBI)
+mydb <- dbConnect(MySQL(),user='root',password='dJj12345',dbname="gn",
+host='localhost')
+```
+
+## 2 Sudden Ionospheric Disturbance (SID) Report
+## 2.1 SID Records[PLot]
+## 2.2 SID Observers[table]
+## 2.3 Solar Flare Summary from GOES-15 Data[plot]
+
+
+
+## 3 Relative Sunspot Numbers Ra
+## 3.1 Raw Sunspot Counts[plot]
+```{sql, connection=mydb, output.var="daily"}
+```{r}
+qplot(daily$day,daily$s)
+```
+
+## 3.2 American Relative Sunspot Numbers[daily summary table]  
+```{sql,echo=FALSE,max.print = 15}
+Select ymd as "Day",count(*) as "Observaions",sum(s) as Spots from daily group by day
+```
+
+## 3.3 Sunspot Observers
+```{sql, echo=FALSE}
+SELECT name,count(*)as Count FROM daily GROUP BY name
+```
+
+
+## 3.4 Generalized Linear Model of Sunspot Numbers
+
+
+
+# You can also embed plots, for example:
+```{sql, connection=mydb, output.var="daily"}
+Select * from daily
+```
+```{r}
+qplot(daily$jd,daily$w)
+
+```
+
+
