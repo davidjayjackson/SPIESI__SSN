@@ -28,12 +28,12 @@ rm(list=ls())
 # MysSQL: sun_data i.e. sundata
 mydb <- dbConnect(MySQL(),user='root',password='dJj12345',dbname="gn",
                   host='localhost')
-# Import sun_data table
-X <- dbGetQuery(mydb, "SELECT * FROM sundata
-                ORDER BY Yr,Mon,Day")
+# Import sun_data table: Only pull out fields required
+X <- dbGetQuery(mydb, "SELECT Yr,Mon,Day,date,Obs,see,g,s,W FROM sundata
+                      WHERE Yr=2018;")
 #Import Whom table
 W <- dbGetQuery(mydb, "SELECT * FROM whom
-                ORDER Obs")
+                ORDER BY Obs")
 # Import historical data: 2010-2018
 # HISTORY <- fread(file.choose())
 # Ymd to history db
@@ -101,9 +101,9 @@ if (mo=="0") {
 # Sundata(X) table is imported at in line 31
 summary(X)
 nrow(X)
-H <- X[,1:10]     # hold current month's raw data
-summary(H)
-X <- H
+# H <- X[,1:13]     # hold current month's raw data
+# summary(H)
+# X <- H
 
 ##########################################################
 #     Import Obsconst data
@@ -113,12 +113,12 @@ X <- H
 (Ex <- paste0(Ex,"obsconst"))   # use year matched to monthly data
 # Added fread and file.choose()
 # X <- fetch(Ex,"csv")
-X <- fread(file.choose())
-names(X) <- c("obs","k","ow","name","silso","updated")
-X$name <- as.character(X$name)
-X$updated <- as.character(X$updated)
+# X <- fread(file.choose())
+names(W) <- c("obs","k","ow","name","silso","updated")
+W$name <- as.character(X$name)
+W$updated <- as.character(X$updated)
 r <- as.factor(" ")
-X <- data.frame(X,r=r)
+X <- data.frame(W,r=r)
 summary(X)
 nrow(X)
 K <- X      # obs const data with rank r and silso added
