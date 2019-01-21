@@ -15,11 +15,29 @@ library(RSQLite)
 library(xtable)
 library("reshape2")
 
-Path <- "C:/Users/Howe/Desktop/SPESI/SSN"
+
+
+
+# Path <- "C:/Users/Howe/Desktop/SPESI/SSN"
+Path <- "C:/Users/davidjayjackson/Documents/GitHub/SPIESI__SSN"
 setwd(Path)
 (WD <- getwd())
 
-
+rm(list=ls())
+#
+# MysSQL: sun_data i.e. sundata
+mydb <- dbConnect(MySQL(),user='root',password='dJj12345',dbname="gn",
+                  host='localhost')
+# Import sun_data table
+X <- dbGetQuery(mydb, "SELECT * FROM sundata
+                ORDER BY Yr,Mon,Day")
+#Import Whom table
+W <- dbGetQuery(mydb, "SELECT * FROM whom
+                ORDER Obs")
+# Import historical data: 2010-2018
+# HISTORY <- fread(file.choose())
+# Ymd to history db
+# HISTORY$Ymd <- as.Date(paste(HISTORY$year, HISTORY$mon, HISTORY$day, sep = "-"))
 ##########################################################
 #####     Functions
 ##########################################################
@@ -77,7 +95,10 @@ if (mo=="0") {
 #path <- paste0(Path, "/Data")
 #setwd(path)
 #(WD <- getwd())
-X <- fetch(Ex,"csv")
+# Changed fetch to fread and added file.choose()
+# X <- fetch(Ex,"csv")
+# X <- fread(file.choose())
+# Sundata(X) table is imported at in line 31
 summary(X)
 nrow(X)
 H <- X[,1:10]     # hold current month's raw data
@@ -90,7 +111,9 @@ X <- H
 
 (fn <- Ex)
 (Ex <- paste0(Ex,"obsconst"))   # use year matched to monthly data
-X <- fetch(Ex,"csv")
+# Added fread and file.choose()
+# X <- fetch(Ex,"csv")
+X <- fread(file.choose())
 names(X) <- c("obs","k","ow","name","silso","updated")
 X$name <- as.character(X$name)
 X$updated <- as.character(X$updated)
@@ -278,17 +301,18 @@ colnames(DAILY) <- c("obs","jd","year","mon","day","see","g","s","w","r","silso"
 DAILY$Ymd <- as.Date(paste(DAILY$year, DAILY$mon, DAILY$day, sep = "-"))
 #
 ###### MySQL & RMySQL
-mydb <- dbConnect(MySQL(),user='root',password='antimatter',dbname="gn",
-host='localhost')
 #
 dbListTables(mydb)
 # Drop Tables
 dbRemoveTable(mydb,"daily")
 dbListTables(mydb)
-
+# Run once import historical data: 2010-2018
+# dbWriteTable(mydb,"DAILY",HISTORY, row.names=FALSE)
+#
 dbWriteTable(mydb, "DAILY", DAILY, row.names = FALSE)
 dbSendStatement(mydb, "ALTER TABLE DAILY MODIFY COLUMN Ymd date")
 dbSendStatement(mydb, "ALTER TABLE DAILY MODIFY COLUMN w int")
+dbWriteTable(mydb,"minmax",C, row.names=FALSE)
 # Read data back into data.frame
 ROD <- dbGetQuery(mydb, "SELECT * FROM daily
                   WHERE Year >=2009")
