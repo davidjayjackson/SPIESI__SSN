@@ -29,11 +29,16 @@ rm(list=ls())
 mydb <- dbConnect(MySQL(),user='root',password='dJj12345',dbname="gn",
                   host='localhost')
 # Import sun_data table: Only pull out fields required
-X <- dbGetQuery(mydb, "SELECT Yr,Mon,Day,date,Obs,see,g,s,W FROM sundata
-                      WHERE Yr=2018;")
-#Import Whom table
-W <- dbGetQuery(mydb, "SELECT * FROM whom
-                ORDER BY Obs")
+# X <- dbGetQuery(mydb, "SELECT Yr,Mon,Day,date,Obs,see,g,s,W FROM sundata
+#                       WHERE Yr=2018;")
+# #Import Whom table
+# W <- dbGetQuery(mydb, "SELECT * FROM whom
+#                 ORDER BY Obs")
+# Combined both sundata and whom data
+A <- dbGetQuery(mydb,"SELECT date,Yr,Mon,Day,whom.Obs,name,k,see,g,s,W
+              FROM sundata
+              LEFT JOIN whom ON whom.Obs = sundata.obs;")
+#
 # Import historical data: 2010-2018
 # HISTORY <- fread(file.choose())
 # Ymd to history db
