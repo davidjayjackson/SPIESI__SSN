@@ -184,24 +184,28 @@ H <- X    # H from above overwritten
 part <- "Submissions" # by observer
 ##########################################################
 
-(tobs <- FreqProp(H$obs,"obs"))    # check obs codes
-WriteCSV(tobs,paste0("Tables/",Ex,ver,part,".csv"))
-WriteCSV(tobs,paste0("Reports/spesi/",Ex,ver,part,".txt"))  # for wordpress
-
+# (tobs <- FreqProp(H$obs,"obs"))    # check obs codes
+# WriteCSV(tobs,paste0("Tables/",Ex,ver,part,".csv"))
+# WriteCSV(tobs,paste0("Reports/spesi/",Ex,ver,part,".txt"))  # for wordpress
+# 
 ##########################################################
 part <- "RawMinAvgMax" # Daily averages: all observers
 ##########################################################
 
-A <- X
-
-B <- aggregate(A$w, by = list(day=A$day), FUN = "min")
-B
-(C <- cbind(B[,1],tab2[1:nrow(B),2],B[,2]))
-B <- aggregate(A$w, by = list(day=A$day), FUN = "mean")
-(C <- cbind(C[,1:3],B[,2]))
-B <- aggregate(A$w, by = list(day=A$day), FUN = "max")
-(C <- data.frame(C[,1:4],B[,2]))
-names(C) <- c("Day","Submissions","Minimum","Average","Maximum")
+# A <- X
+# 
+# B <- aggregate(A$w, by = list(day=A$day), FUN = "min")
+# B
+# (C <- cbind(B[,1],tab2[1:nrow(B),2],B[,2]))
+# B <- aggregate(A$w, by = list(day=A$day), FUN = "mean")
+# (C <- cbind(C[,1:3],B[,2]))
+# B <- aggregate(A$w, by = list(day=A$day), FUN = "max")
+# (C <- data.frame(C[,1:4],B[,2]))
+C <-dbGetQuery(mydb,"SELECT year,mon,day as Day,count(*) as Submissions,min(W)as Minimum
+              ,avg(W) as Average,max(W) as Maximum
+              FROM daily group by year,mon,day 
+                ORDER BY year,mon,day;")
+#names(C) <- c("Day","Submissions","Minimum","Average","Maximum")
 C
 rm(A,B)
 
